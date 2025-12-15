@@ -1,0 +1,31 @@
+pip install --upgrade pip
+pip show numpy / pip list
+pip install --upgrade numpy / pip install -U numpy
+
+👉 Kalau mau update semua package yang sudah terinstall, biasanya harus manual satu-satu, atau pakai:
+
+pip list --outdated
+
+
+Define a function called plus_five() that adds 5 to its argument. Then, define another function named m_by_3() that multiplies the argument (the result obtained from plus_five()) by 3. Verify your code was correct by calling the second function with an argument of 5. Was your output equal to 30?
+
+
+Scatter = Observed Value (X)
+Intercept = b0
+The slope of the line is the coefficient in front of x
+
+
+substract
+Obtain
+regarding
+invoking 
+obtain
+supposed
+odd = ganjil
+even = genap
+enumerasi
+suitable 
+run out
+sightseeing 
+Threatens 
+those
