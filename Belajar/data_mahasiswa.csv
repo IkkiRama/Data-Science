@@ -1,0 +1,556 @@
+nama,umur,gender,matkul,sks,nilai,semester,jurusan,ipk,status_lulus
+Joko Susilo,21.0,laki,Algoritma,2,64,3,Teknik Komputer,3.56,Lulus
+Rahmat Hidayat,19.0,perempuan,Manajemen,4,72,3,Akuntansi,2.92,Lulus
+Fikri Ramadhan,21.0,L,Manajemen,4,71,5,Manajemen,3.94,Tidak
+Sandy Wijaya,,Pria,Manajemen SDM,3,51,8,Informatika,3.98,Lulus
+Claudia Angelina,21.0,cewek,Ekonomi Pembangunan,3,71,5,Teknik Komputer,2.86,Lulus
+Putra Mahendra,20.0,perempuan,Machine Learning,4,91,8,Informatika,2.58,Tidak
+Doni Saputra,,l,Kepemimpinan,3,96,6,Akuntansi,2.4,Lulus
+Dian Puspitasari,21.0,laki,Ekonomi Industri,2,52,5,Teknik Komputer,3.22,Lulus
+Tika Rahmawati,18.0,cewek,Akuntansi Manajemen,4,67,4,Sistem Informasi,3.88,Tidak
+Doni Saputra,19.0,Pria,Pemrograman,3,58,2,Informatika,2.2,Tidak
+Albert Gunawan,21.0,M,Manajemen Keuangan,4,56,4,Sistem Informasi,2.99,Lulus
+Angelina Putri,20.0,M,Audit,3,66,4,Sistem Informasi,2.36,Tidak
+Fajar Nugroho,19.0,P,Sistem Informasi,3,55,6,Teknik Komputer,3.09,Tidak
+Nanda Pratama,22.0,female,Manajemen Produk Digital,4,67,2,Bisnis Digital,2.9,Tidak
+Dian Puspitasari,,perempuan,Bisnis Digital,3,80,8,Teknik Komputer,2.65,Tidak
+Nabila Zahra,21.0,female,Manajemen SDM,2,89,5,Manajemen,2.78,Tidak
+David Setiawan,22.0,L,Statistika,3,74,4,Akuntansi,3.21,Lulus
+Steven Santoso,18.0,PEREMPUAN,Data Mining,2,64,5,Informatika,2.15,Lulus
+Fikri Ramadhan,18.0,l,Analisis Laporan Keuangan,2,93,8,Teknik Komputer,2.01,Lulus
+Fikri Ramadhan,20.0,perempuan,Manajemen Keuangan,2,57,3,Sistem Informasi,3.58,Lulus
+Herman Widodo,22.0,laki,AI,3,88,2,Ilmu Ekonomi,2.23,Lulus
+Yusuf Hidayat,18.0,female,E-Commerce,3,82,8,Akuntansi,2.74,Tidak
+Rizky Ramadhan,22.0,cewek,UI/UX Bisnis,4,93,8,Ilmu Ekonomi,2.55,Lulus
+Aulia Rahman,18.0,PEREMPUAN,Analisis Laporan Keuangan,4,86,7,Informatika,3.43,Lulus
+Fitri Handayani,22.0,PEREMPUAN,Manajemen,3,63,7,Akuntansi,2.08,Lulus
+Mega Utami,19.0,M,Ekonomi Industri,3,62,3,Sistem Informasi,2.06,Lulus
+Yoga Pratama,18.0,F,Ekonomi Internasional,2,81,4,Sistem Informasi,3.82,Lulus
+Fikri Ramadhan,22.0,M,UI/UX Bisnis,4,92,5,Informatika,2.46,Tidak
+Rahmat Hidayat,20.0,LAKI-LAKI,Digital Marketing,4,71,4,Bisnis Digital,3.86,Lulus
+Iqbal Maulana,,male,Ekonomi Publik,2,55,4,Bisnis Digital,3.61,Tidak
+Vina Melinda,21.0,P,Manajemen Inovasi,3,60,8,Manajemen,3.61,Tidak
+Iqbal Maulana,18.0,Pria,Ekonomi Pembangunan,4,82,1,Teknik Komputer,2.46,Tidak
+Putri Ayu Lestari,18.0,M,Audit,2,90,3,Manajemen,2.01,Tidak
+Michael Wijaya,20.0,cewek,Bisnis Digital,2,86,1,Informatika,2.24,Tidak
+Doni Saputra,20.0,laki,Sistem Informasi,3,81,8,Informatika,3.12,Tidak
+Yoga Pratama,18.0,perempuan,Ekonomi Syariah,3,98,2,Sistem Informasi,3.92,Tidak
+Dedi Irawan,19.0,Wanita,Manajemen Inovasi,4,98,5,Teknik Komputer,2.57,Lulus
+Vina Melinda,20.0,laki,Matematika Bisnis,2,51,2,Bisnis Digital,2.82,Lulus
+Taufik Hidayat,22.0,PEREMPUAN,Manajemen Risiko,2,50,3,Ilmu Ekonomi,3.36,Lulus
+Michael Wijaya,21.0,L,Startup Management,3,81,6,Akuntansi,2.48,Tidak
+Salsaabila Putri,20.0,LAKI-LAKI,Manajemen Produk Digital,4,66,7,Informatika,3.61,Lulus
+Olivia Hartono,21.0,F,Pelaporan Keuangan,3,55,6,Akuntansi,3.07,Tidak
+Andrew Gunadi,18.0,L,Deep Learning,2,55,8,Informatika,2.08,Tidak
+Fikri Ramadhan,21.0,Wanita,Digital Marketing,4,85,3,Manajemen,3.42,Lulus
+Luthfi Hakim,20.0,l,Manajemen Produk Digital,4,90,1,Informatika,2.8,Lulus
+Yohana Simanjuntak,19.0,cowok,Manajemen Strategi,2,60,4,Akuntansi,3.47,Tidak
+Novi Andriani,,Pria,Business Analytics,3,84,7,Ilmu Ekonomi,3.32,Tidak
+Jonathan Halim,18.0,F,Teori Ekonomi,2,51,1,Informatika,2.19,Tidak
+Angelina Putri,22.0,laki,Manajemen Operasi,2,81,3,Ilmu Ekonomi,2.38,Lulus
+Grace Natalia,20.0,cewek,Perpajakan,4,97,8,Manajemen,3.79,Tidak
+Jessica Lim,,M,Algoritma,2,73,4,Teknik Komputer,2.17,Tidak
+Zaki Mubarak,21.0,M,Algoritma,3,89,4,Manajemen,3.16,Tidak
+Ahmad Fauzi,,perempuan,Strategi Bisnis Digital,2,84,1,Manajemen,2.01,Tidak
+Herman Widodo,,female,AI,3,51,6,Ilmu Ekonomi,2.9,Lulus
+Tri Wahyudi,18.0,cowok,Akuntansi Biaya,2,53,1,Informatika,2.99,Tidak
+Nina Oktaviani,21.0,laki,Sistem Informasi Akuntansi,4,52,1,Teknik Komputer,2.62,Tidak
+William Tanuwijaya,21.0,l,Teori Ekonomi,4,999,6,Informatika,2.53,Tidak
+Lina Handayani,,M,Matematika Bisnis,3,87,5,Manajemen,2.97,Tidak
+Dedi Irawan,20.0,M,Machine Learning,4,83,5,Informatika,3.01,Tidak
+Nanda Pratama,18.0,perempuan,Transformasi Digital,2,97,3,Bisnis Digital,3.14,Tidak
+Nina Oktaviani,18.0,cewek,Ekonomi,2,93,4,Ilmu Ekonomi,2.94,Tidak
+Reza Prakoso,22.0,male,Akuntansi Keuangan,3,84,4,Informatika,2.03,Tidak
+Fajar Nugroho,22.0,Pria,Manajemen Strategi,2,95,5,Akuntansi,3.14,Tidak
+Joko Susilo,18.0,L,Big Data,4,70,8,Bisnis Digital,3.7,Tidak
+Olivia Hartono,20.0,cowok,Ekonomi Industri,3,74,2,Sistem Informasi,3.87,Tidak
+Aditya Nugraha,20.0,cowok,Ekonomi Moneter,3,73,2,Manajemen,3.23,Tidak
+Yusuf Hidayat,19.0,P,Ekonomi Publik,4,76,2,Manajemen,3.75,Lulus
+Putri Ayu Lestari,18.0,P,Bisnis Digital,2,92,6,Sistem Informasi,2.72,Lulus
+Andrew Gunadi,19.0,cewek,Manajemen SDM,4,75,3,Sistem Informasi,2.51,Tidak
+Leonard Hartono,22.0,cowok,Deep Learning,3,56,1,Informatika,3.26,Tidak
+Sandy Wijaya,18.0,perempuan,Statistika,3,65,6,Akuntansi,3.78,Lulus
+Claudia Angelina,21.0,Wanita,Bisnis Digital,3,51,8,Manajemen,3.16,Tidak
+Sri Wahyuni,20.0,F,E-Commerce,2,71,2,Ilmu Ekonomi,3.72,Lulus
+Joko Susilo,21.0,male,Manajemen Produk Digital,3,55,7,Teknik Komputer,2.72,Tidak
+Sandy Wijaya,22.0,cowok,Akuntansi Keuangan,2,57,5,Informatika,2.54,Tidak
+Bayu Kurniawan,22.0,L,Mikroekonomi,4,53,6,Ilmu Ekonomi,2.1,Tidak
+Taufik Hidayat,,M,Transformasi Digital,4,84,7,Informatika,2.28,Tidak
+Siti Nurhaliza,22.0,Wanita,Manajemen Produk Digital,3,91,6,Sistem Informasi,2.08,Tidak
+Kevin Tan,20.0,Pria,Transformasi Digital,3,75,5,Bisnis Digital,2.37,Tidak
+Hendra Gunawan,18.0,Pria,Matematika Bisnis,2,50,2,Bisnis Digital,3.83,Lulus
+Lina Handayani,19.0,M,Manajemen Produk Digital,3,97,1,Informatika,3.32,Lulus
+Zaki Mubarak,18.0,L,Akuntansi,2,88,8,Ilmu Ekonomi,3.11,Tidak
+Yohana Simanjuntak,22.0,LAKI-LAKI,Manajemen,4,52,4,Bisnis Digital,3.13,Lulus
+Budi Santoso,22.0,cowok,AI,3,78,6,Akuntansi,2.18,Lulus
+Leonard Hartono,18.0,M,Deep Learning,3,95,6,Akuntansi,3.41,Tidak
+Felix Halim,19.0,P,Makroekonomi,3,97,5,Ilmu Ekonomi,2.95,Lulus
+Nanda Pratama,,M,Sistem Informasi,3,86,7,Akuntansi,2.1,Tidak
+Jessica Lim,22.0,LAKI-LAKI,Basis Data,3,80,2,Sistem Informasi,3.25,Tidak
+Intan Permata,18.0,cewek,Audit,2,94,4,Ilmu Ekonomi,3.23,Tidak
+William Tanuwijaya,19.0,Pria,AI,2,77,8,Bisnis Digital,3.27,Tidak
+Andrew Gunadi,21.0,LAKI-LAKI,Perilaku Organisasi,3,84,4,Informatika,2.26,Lulus
+Fikri Ramadhan,20.0,PEREMPUAN,Ekonomi Moneter,4,86,4,Akuntansi,2.77,Lulus
+Putri Maharani,19.0,female,Akuntansi Biaya,4,93,5,Manajemen,2.14,Lulus
+Sri Wahyuni,,cewek,Ekonomi Internasional,3,999,2,Ilmu Ekonomi,3.37,Lulus
+Vina Melinda,19.0,cowok,Sistem Informasi,2,75,2,Informatika,2.05,Tidak
+Budi Santoso,20.0,PEREMPUAN,Algoritma,2,56,4,Ilmu Ekonomi,3.39,Tidak
+Yusuf Hidayat,22.0,p,Pemrograman,4,78,8,Manajemen,3.47,Lulus
+Sandy Wijaya,22.0,l,Manajemen Pemasaran,2,85,2,Akuntansi,2.85,Tidak
+Felicia Tan,20.0,perempuan,Business Analytics,2,84,8,Ilmu Ekonomi,2.26,Lulus
+Fauzan Ramadhan,,P,Ekonomi,2,61,1,Bisnis Digital,3.36,Lulus
+Rahmat Hidayat,18.0,p,Machine Learning,4,90,6,Bisnis Digital,3.81,Tidak
+Jessica Lim,21.0,female,Manajemen Pemasaran,2,71,5,Manajemen,3.79,Lulus
+Felix Halim,21.0,l,Makroekonomi,2,90,3,Manajemen,2.18,Lulus
+Catherine Wijaya,21.0,Wanita,Machine Learning,3,80,8,Informatika,2.97,Tidak
+Aulia Rahman,22.0,laki,Pelaporan Keuangan,2,84,4,Bisnis Digital,2.66,Lulus
+Sari Dewi,22.0,male,Sistem Informasi Akuntansi,2,72,8,Ilmu Ekonomi,3.58,Lulus
+Ahmad Fauzi,22.0,l,Ekonomi Pembangunan,3,88,6,Bisnis Digital,3.1,Lulus
+Putra Mahendra,20.0,laki,Teori Ekonomi,4,78,3,Informatika,3.41,Lulus
+Kevin Pratama,21.0,LAKI-LAKI,Manajemen Proyek,2,59,2,Informatika,3.24,Lulus
+Sri Wahyuni,,p,Ekonomi,4,95,5,Akuntansi,2.45,Lulus
+Rina Kartika,19.0,L,Ekonomi Publik,4,51,5,Teknik Komputer,3.03,Tidak
+Mega Utami,20.0,cewek,Manajemen,2,50,6,Teknik Komputer,3.63,Lulus
+Melati Sari,18.0,F,Business Analytics,2,53,4,Informatika,2.75,Lulus
+Evelyn Kusuma,20.0,Wanita,Perpajakan,2,93,6,Akuntansi,3.41,Tidak
+Dimas Saputra,19.0,PEREMPUAN,Akuntansi Keuangan,4,88,6,Akuntansi,2.99,Lulus
+Evelyn Kusuma,19.0,male,Ekonometrika,3,69,4,Akuntansi,3.53,Lulus
+Felicia Tan,18.0,Pria,Business Analytics,4,50,3,Manajemen,3.17,Tidak
+Dewi Anggraini,18.0,perempuan,Ekonomi Internasional,4,98,1,Bisnis Digital,3.74,Tidak
+Robby Kurniawan,22.0,l,Manajemen Pemasaran,3,93,5,Teknik Komputer,3.94,Lulus
+Jessica Lim,22.0,Wanita,Sistem Informasi Akuntansi,3,70,3,Manajemen,3.84,Tidak
+Putri Maharani,20.0,PEREMPUAN,Manajemen Strategi,4,69,1,Sistem Informasi,3.05,Lulus
+Siska Permata,18.0,P,Ekonomi Pembangunan,3,64,7,Teknik Komputer,3.99,Tidak
+Andi Saputra,,p,Akuntansi Keuangan,4,65,7,Ilmu Ekonomi,2.09,Tidak
+Iqbal Maulana,19.0,L,Perilaku Organisasi,3,61,8,Akuntansi,3.24,Tidak
+Erika Putri,19.0,PEREMPUAN,Manajemen SDM,3,57,2,Ilmu Ekonomi,2.46,Tidak
+Bagus Saputro,21.0,F,Big Data,2,90,4,Manajemen,3.97,Tidak
+Novi Andriani,18.0,LAKI-LAKI,Algoritma,2,82,5,Bisnis Digital,3.63,Tidak
+Ahmad Fauzi,22.0,Wanita,Basis Data,2,95,3,Akuntansi,3.65,Tidak
+Robby Kurniawan,20.0,l,Manajemen Produk Digital,2,96,1,Akuntansi,2.84,Tidak
+Rina Kartika,,F,Transformasi Digital,3,94,5,Sistem Informasi,2.05,Lulus
+Andrew Gunadi,,F,Data Mining,2,67,8,Ilmu Ekonomi,3.97,Lulus
+Taufik Hidayat,22.0,laki,Akuntansi Keuangan,3,74,6,Manajemen,3.66,Lulus
+Samuel Kristianto,22.0,L,Machine Learning,2,83,1,Teknik Komputer,2.83,Lulus
+Andika Wijaya,22.0,F,Fintech,4,55,4,Akuntansi,3.63,Lulus
+Veronica Susanto,22.0,cewek,Business Analytics,3,52,5,Bisnis Digital,3.17,Lulus
+Yoga Pratama,22.0,cewek,Machine Learning,3,59,3,Akuntansi,2.49,Tidak
+Fajar Nugroho,18.0,p,Ekonomi Internasional,3,50,3,Bisnis Digital,2.55,Tidak
+Olivia Hartono,,L,Manajemen,2,98,8,Akuntansi,3.24,Tidak
+Bayu Kurniawan,19.0,male,Manajemen,3,83,6,Informatika,3.54,Lulus
+Jessica Lim,19.0,LAKI-LAKI,Manajemen Inovasi,2,93,5,Sistem Informasi,2.18,Lulus
+Michael Wijaya,18.0,female,Audit,2,97,7,Akuntansi,2.06,Lulus
+Fitri Handayani,22.0,female,UI/UX Bisnis,2,63,2,Sistem Informasi,3.61,Lulus
+Andi Saputra,,cowok,Ekonomi Publik,3,87,2,Teknik Komputer,3.18,Tidak
+Bayu Kurniawan,20.0,female,Fintech,4,83,4,Informatika,3.09,Lulus
+William Tanuwijaya,21.0,F,Transformasi Digital,3,91,3,Sistem Informasi,3.4,Lulus
+Michael Wijaya,21.0,laki,Ekonomi Moneter,3,66,2,Bisnis Digital,3.54,Tidak
+Albert Gunawan,22.0,F,Sistem Informasi Akuntansi,3,55,5,Akuntansi,2.69,Tidak
+Daniel Saputra,20.0,cewek,Perilaku Organisasi,4,97,3,Bisnis Digital,2.15,Lulus
+Kevin Tan,20.0,female,Manajemen Pemasaran,3,65,8,Teknik Komputer,2.36,Tidak
+Albert Gunawan,18.0,Wanita,Sistem Informasi Akuntansi,4,81,3,Ilmu Ekonomi,3.03,Tidak
+Reza Prakoso,19.0,l,Pemrograman,2,999,3,Informatika,3.64,Tidak
+Maya Sari,21.0,M,Deep Learning,3,71,5,Akuntansi,3.1,Lulus
+Salsaabila Putri,18.0,M,Digital Marketing,3,95,2,Informatika,2.26,Tidak
+Agus Salim,22.0,M,Algoritma,4,58,2,Bisnis Digital,3.6,Lulus
+Siti Nurhaliza,,perempuan,Akuntansi Syariah,4,79,3,Ilmu Ekonomi,3.84,Lulus
+Joko Susilo,18.0,Wanita,Perilaku Organisasi,3,85,1,Teknik Komputer,2.17,Lulus
+Dimas Saputra,22.0,female,Ekonomi Syariah,4,96,7,Akuntansi,3.85,Tidak
+Natalie Chandra,19.0,P,Transformasi Digital,4,63,8,Akuntansi,3.44,Tidak
+Catherine Wijaya,,male,Pelaporan Keuangan,4,999,7,Informatika,3.37,Lulus
+Iqbal Maulana,,PEREMPUAN,Perpajakan,4,96,4,Sistem Informasi,2.21,Tidak
+Robby Kurniawan,,perempuan,Ekonomi,4,999,7,Teknik Komputer,2.21,Lulus
+Vina Melinda,22.0,perempuan,Manajemen Keuangan,3,88,1,Manajemen,3.68,Tidak
+Novi Andriani,19.0,Wanita,Manajemen Produk Digital,3,93,1,Ilmu Ekonomi,3.78,Tidak
+Felix Halim,18.0,LAKI-LAKI,Manajemen Inovasi,3,52,1,Manajemen,3.0,Lulus
+Doni Saputra,21.0,L,Manajemen Produk Digital,4,71,2,Akuntansi,3.12,Tidak
+Putri Ayu Lestari,18.0,Wanita,Data Mining,4,91,1,Informatika,2.67,Tidak
+Aditya Nugraha,19.0,LAKI-LAKI,Data Mining,3,94,6,Bisnis Digital,3.21,Lulus
+Tika Rahmawati,22.0,male,Kepemimpinan,3,70,6,Bisnis Digital,2.73,Tidak
+Veronica Susanto,21.0,l,Sistem Informasi,3,60,6,Bisnis Digital,2.57,Lulus
+Michael Wijaya,18.0,P,Ekonomi Industri,4,52,3,Ilmu Ekonomi,2.04,Lulus
+Reza Prakoso,21.0,cewek,Manajemen Pemasaran,4,55,2,Ilmu Ekonomi,3.15,Lulus
+Putri Ayu Lestari,21.0,Wanita,Transformasi Digital,4,55,6,Manajemen,2.52,Tidak
+Michael Wijaya,,l,Audit,4,51,7,Sistem Informasi,3.07,Tidak
+Joko Susilo,20.0,L,Kepemimpinan,2,93,5,Akuntansi,2.37,Tidak
+Rina Kartika,21.0,l,Manajemen Proyek,4,69,1,Sistem Informasi,3.47,Tidak
+Reza Prakoso,18.0,perempuan,AI,3,63,8,Teknik Komputer,2.17,Tidak
+Sri Wahyuni,20.0,PEREMPUAN,AI,4,85,5,Akuntansi,3.07,Lulus
+Rizal Fahmi,,F,Manajemen Inovasi,3,59,5,Teknik Komputer,2.13,Tidak
+Rizal Fahmi,19.0,female,Manajemen,2,89,2,Bisnis Digital,2.18,Lulus
+Angelina Putri,22.0,LAKI-LAKI,Mikroekonomi,2,66,1,Akuntansi,3.19,Tidak
+Novi Andriani,,F,Basis Data,4,84,6,Akuntansi,2.21,Lulus
+Luthfi Hakim,,p,Pemrograman,3,63,5,Teknik Komputer,3.46,Lulus
+Desi Oktavia,19.0,LAKI-LAKI,Akuntansi Syariah,4,84,1,Akuntansi,3.48,Tidak
+Evelyn Kusuma,21.0,male,Manajemen,2,57,3,Bisnis Digital,3.59,Tidak
+Fajar Nugroho,21.0,female,Ekonomi Industri,3,84,5,Bisnis Digital,2.37,Lulus
+Zaki Mubarak,20.0,male,Manajemen Strategi,3,75,6,Akuntansi,2.72,Lulus
+Jonathan Halim,19.0,male,Perpajakan,2,67,8,Akuntansi,2.9,Tidak
+Siti Nurhaliza,,p,Ekonometrika,4,87,1,Informatika,3.5,Lulus
+Putri Maharani,18.0,LAKI-LAKI,Analisis Laporan Keuangan,2,66,1,Ilmu Ekonomi,2.78,Tidak
+Dedi Irawan,,female,Ekonomi Publik,2,89,8,Ilmu Ekonomi,3.25,Lulus
+Siti Nurhaliza,,perempuan,Perpajakan,3,52,7,Manajemen,3.46,Tidak
+Fajar Nugroho,21.0,F,Analisis Laporan Keuangan,4,96,5,Bisnis Digital,2.99,Tidak
+Farhan Akbar,20.0,F,Manajemen Keuangan,2,87,1,Ilmu Ekonomi,2.62,Lulus
+Siska Permata,20.0,M,Mikroekonomi,4,82,6,Manajemen,2.41,Tidak
+Michael Wijaya,19.0,Wanita,Mikroekonomi,2,59,1,Informatika,2.21,Lulus
+Evelyn Kusuma,21.0,Pria,Manajemen SDM,2,73,4,Teknik Komputer,2.79,Lulus
+Doni Saputra,22.0,cowok,Manajemen Proyek,2,96,4,Ilmu Ekonomi,3.44,Tidak
+Eko Prasetyo,20.0,cowok,Matematika Bisnis,4,999,3,Teknik Komputer,3.13,Tidak
+Felicia Tan,20.0,l,Akuntansi Biaya,4,54,4,Teknik Komputer,2.36,Tidak
+Felix Halim,,cewek,Perpajakan,3,57,7,Teknik Komputer,2.92,Tidak
+Nabila Zahra,20.0,M,AI,3,62,8,Informatika,3.01,Lulus
+Zaki Mubarak,18.0,L,Ekonomi Industri,4,89,4,Sistem Informasi,3.19,Tidak
+Jason Gunawan,21.0,cewek,Mikroekonomi,2,86,8,Akuntansi,3.3,Lulus
+Angelina Putri,21.0,PEREMPUAN,Manajemen Produk Digital,4,58,6,Manajemen,2.15,Tidak
+Dimas Saputra,18.0,p,Manajemen Proyek,3,60,7,Ilmu Ekonomi,2.25,Lulus
+Andi Saputra,22.0,F,Ekonomi Moneter,3,95,4,Informatika,2.25,Lulus
+Nanda Pratama,18.0,M,Transformasi Digital,4,999,8,Manajemen,3.22,Lulus
+Sandy Wijaya,18.0,l,Transformasi Digital,2,58,2,Ilmu Ekonomi,3.61,Lulus
+Reza Prakoso,19.0,l,Sistem Informasi,2,84,7,Sistem Informasi,2.83,Tidak
+Luthfi Hakim,20.0,F,Fintech,3,51,7,Akuntansi,2.69,Tidak
+Bayu Kurniawan,20.0,cewek,Pemrograman,2,92,3,Manajemen,2.9,Lulus
+Bayu Kurniawan,,Pria,Mikroekonomi,2,56,4,Akuntansi,2.84,Tidak
+Aulia Rahman,18.0,PEREMPUAN,Audit,2,78,7,Manajemen,2.56,Tidak
+Evelyn Kusuma,21.0,cowok,Ekonomi Publik,3,70,1,Sistem Informasi,2.36,Tidak
+Natalie Chandra,18.0,l,Makroekonomi,2,69,6,Bisnis Digital,3.72,Lulus
+Nabila Zahra,22.0,Wanita,Bisnis Digital,2,56,1,Ilmu Ekonomi,2.62,Tidak
+Taufik Hidayat,20.0,l,Analisis Laporan Keuangan,4,68,6,Informatika,2.41,Lulus
+Dimas Saputra,18.0,female,Sistem Informasi,2,78,6,Manajemen,3.67,Lulus
+Leonard Hartono,19.0,Pria,Ekonomi,2,63,3,Sistem Informasi,2.91,Tidak
+Fajar Nugroho,,l,Perilaku Organisasi,2,99,6,Manajemen,3.12,Lulus
+Siska Permata,21.0,M,Perpajakan,2,57,5,Sistem Informasi,2.15,Lulus
+Eko Prasetyo,19.0,PEREMPUAN,Makroekonomi,3,68,6,Teknik Komputer,3.05,Lulus
+Steven Santoso,21.0,M,Data Mining,3,56,5,Sistem Informasi,2.82,Lulus
+Tri Wahyudi,20.0,l,Manajemen Strategi,4,57,6,Teknik Komputer,2.68,Lulus
+Hadi Wijaya,20.0,cewek,Bisnis Digital,4,82,4,Manajemen,2.48,Tidak
+William Tanuwijaya,20.0,M,Deep Learning,3,81,8,Bisnis Digital,3.61,Tidak
+Robby Kurniawan,21.0,M,Manajemen Proyek,2,70,6,Teknik Komputer,2.59,Tidak
+Leonard Hartono,19.0,F,Strategi Bisnis Digital,4,59,7,Ilmu Ekonomi,3.47,Lulus
+Nina Oktaviani,20.0,M,Perpajakan,2,68,4,Akuntansi,3.29,Tidak
+Bagus Saputro,19.0,male,Statistika,2,96,5,Bisnis Digital,2.68,Tidak
+Dewi Anggraini,19.0,Wanita,AI,4,72,7,Informatika,2.54,Lulus
+Kartika Dewi,22.0,F,Ekonomi Internasional,3,79,1,Informatika,2.87,Tidak
+Siti Nurhaliza,20.0,male,Big Data,3,71,4,Sistem Informasi,2.28,Tidak
+Rina Kartika,,Wanita,Manajemen SDM,4,95,7,Sistem Informasi,3.6,Lulus
+Aulia Rahman,19.0,laki,Algoritma,4,66,6,Ilmu Ekonomi,3.48,Tidak
+Aditya Nugraha,22.0,LAKI-LAKI,Akuntansi Biaya,2,88,1,Bisnis Digital,2.28,Lulus
+Intan Permata,,l,Manajemen,3,78,5,Bisnis Digital,3.38,Lulus
+Reza Prakoso,20.0,male,Manajemen Inovasi,3,67,8,Akuntansi,2.24,Tidak
+Anisa Fitri,18.0,p,Akuntansi Syariah,3,83,1,Ilmu Ekonomi,2.81,Tidak
+Gina Marlina,19.0,F,Manajemen Strategi,4,91,6,Akuntansi,2.27,Lulus
+Desi Oktavia,,laki,Strategi Bisnis Digital,4,89,2,Ilmu Ekonomi,3.2,Lulus
+Joko Susilo,22.0,l,Kepemimpinan,4,59,5,Bisnis Digital,3.68,Lulus
+Daniel Saputra,21.0,female,Manajemen,3,95,8,Akuntansi,2.71,Tidak
+Evelyn Kusuma,20.0,p,Pemrograman,2,999,5,Ilmu Ekonomi,3.21,Tidak
+Rizky Ramadhan,22.0,PEREMPUAN,Big Data,2,60,8,Sistem Informasi,2.87,Tidak
+Putri Ayu Lestari,18.0,M,Fintech,4,88,8,Teknik Komputer,3.13,Tidak
+Angelina Putri,,p,Algoritma,3,54,8,Akuntansi,2.43,Tidak
+Dimas Saputra,21.0,p,Ekonomi Syariah,4,84,4,Informatika,2.1,Tidak
+Mega Utami,20.0,laki,Ekonomi Publik,2,92,2,Ilmu Ekonomi,3.25,Tidak
+Citra Lestari,22.0,laki,Data Mining,2,58,8,Ilmu Ekonomi,3.46,Lulus
+Mega Utami,22.0,P,Audit,4,89,2,Bisnis Digital,2.92,Lulus
+Jason Gunawan,20.0,female,Deep Learning,3,86,4,Ilmu Ekonomi,3.39,Tidak
+Sandy Wijaya,,M,Perpajakan,3,61,3,Bisnis Digital,2.63,Lulus
+Cindy Wijaya,20.0,Pria,Manajemen Inovasi,2,66,2,Sistem Informasi,3.38,Lulus
+Putra Mahendra,21.0,LAKI-LAKI,UI/UX Bisnis,3,65,8,Manajemen,3.52,Lulus
+Albert Gunawan,22.0,female,Ekonomi Moneter,2,72,5,Sistem Informasi,3.38,Tidak
+Angelina Putri,18.0,PEREMPUAN,Perpajakan,3,74,4,Manajemen,2.44,Tidak
+Siti Nurhaliza,18.0,PEREMPUAN,Ekonomi Moneter,2,75,7,Informatika,2.09,Tidak
+Tri Wahyudi,18.0,p,Manajemen Pemasaran,4,75,5,Ilmu Ekonomi,2.95,Lulus
+Sandy Wijaya,,perempuan,Data Mining,4,56,1,Ilmu Ekonomi,2.39,Tidak
+Andi Saputra,19.0,laki,Akuntansi,4,72,5,Teknik Komputer,2.95,Tidak
+Jason Gunawan,21.0,female,Akuntansi Biaya,4,84,2,Bisnis Digital,3.04,Lulus
+Taufik Hidayat,18.0,Pria,Statistika,3,80,8,Manajemen,2.46,Tidak
+Farhan Akbar,22.0,L,Manajemen Keuangan,3,52,5,Informatika,3.06,Tidak
+Anisa Fitri,21.0,p,AI,4,64,8,Ilmu Ekonomi,3.08,Lulus
+Kevin Tan,,P,Strategi Bisnis Digital,2,62,2,Manajemen,3.04,Lulus
+Farhan Akbar,19.0,l,UI/UX Bisnis,3,51,7,Sistem Informasi,2.92,Tidak
+Angelina Putri,,LAKI-LAKI,Manajemen,4,62,5,Teknik Komputer,2.77,Tidak
+Sari Dewi,20.0,female,Perpajakan,4,88,6,Informatika,2.7,Tidak
+Fajar Nugroho,18.0,F,Ekonometrika,2,93,1,Bisnis Digital,3.16,Tidak
+Taufik Hidayat,18.0,cowok,Statistika,3,79,1,Informatika,2.67,Tidak
+Michael Wijaya,22.0,F,Ekonomi Publik,2,79,1,Teknik Komputer,2.22,Tidak
+Aulia Rahman,,l,Manajemen Proyek,3,53,2,Akuntansi,2.47,Lulus
+Claudia Angelina,18.0,l,Manajemen SDM,2,95,7,Sistem Informasi,2.86,Lulus
+Eko Prasetyo,18.0,LAKI-LAKI,Manajemen Keuangan,4,86,5,Teknik Komputer,2.52,Tidak
+Hadi Wijaya,,LAKI-LAKI,Data Mining,4,95,8,Ilmu Ekonomi,2.93,Lulus
+Evelyn Kusuma,19.0,male,Deep Learning,2,56,4,Sistem Informasi,2.13,Tidak
+Zaki Mubarak,21.0,L,AI,2,999,5,Sistem Informasi,2.24,Lulus
+Michael Wijaya,19.0,l,Akuntansi,2,75,1,Informatika,2.37,Lulus
+Felicia Tan,,p,Business Analytics,2,54,6,Ilmu Ekonomi,3.94,Lulus
+Yohana Simanjuntak,18.0,Pria,AI,4,69,2,Bisnis Digital,3.05,Lulus
+Monica Setiawati,19.0,l,Kepemimpinan,4,99,2,Manajemen,3.39,Tidak
+David Setiawan,20.0,cewek,Pemrograman,4,87,5,Teknik Komputer,2.45,Lulus
+Agus Salim,18.0,L,Perpajakan,2,53,6,Manajemen,3.72,Lulus
+Intan Permata,18.0,female,Deep Learning,4,77,5,Informatika,3.78,Lulus
+Doni Saputra,19.0,L,Manajemen Proyek,3,58,7,Manajemen,3.31,Lulus
+Leonard Hartono,20.0,female,Akuntansi,4,83,8,Sistem Informasi,2.51,Tidak
+Nina Oktaviani,20.0,L,Analisis Laporan Keuangan,2,97,2,Informatika,3.07,Lulus
+Rizal Fahmi,21.0,M,Basis Data,2,77,5,Informatika,3.98,Tidak
+Nur Aini,22.0,cowok,Ekonometrika,3,78,3,Sistem Informasi,3.65,Tidak
+Melati Sari,19.0,M,Ekonomi Moneter,4,62,5,Ilmu Ekonomi,3.47,Tidak
+Olivia Hartono,20.0,male,Algoritma,2,97,1,Bisnis Digital,2.67,Lulus
+Rangga Pratama,18.0,P,Algoritma,2,91,4,Manajemen,3.24,Tidak
+Putri Ayu Lestari,21.0,male,Akuntansi Biaya,4,54,3,Ilmu Ekonomi,3.92,Lulus
+Galih Putra,20.0,PEREMPUAN,Perpajakan,4,72,2,Bisnis Digital,2.26,Lulus
+Andrew Gunadi,22.0,M,Teori Ekonomi,3,88,7,Akuntansi,2.0,Tidak
+Dedi Irawan,,M,Akuntansi Biaya,2,78,4,Informatika,2.01,Tidak
+Farhan Akbar,22.0,LAKI-LAKI,Manajemen Inovasi,3,76,1,Informatika,3.12,Tidak
+Fauzan Ramadhan,19.0,p,Akuntansi,2,84,8,Informatika,2.21,Tidak
+Dedi Irawan,19.0,LAKI-LAKI,Sistem Informasi,2,81,2,Teknik Komputer,2.68,Tidak
+Dewi Anggraini,,P,Algoritma,2,78,6,Ilmu Ekonomi,3.87,Tidak
+Gina Marlina,21.0,F,Akuntansi Manajemen,3,53,3,Sistem Informasi,2.33,Tidak
+Anisa Fitri,,L,Machine Learning,2,59,6,Manajemen,2.69,Tidak
+Desi Oktavia,20.0,laki,Makroekonomi,3,99,6,Ilmu Ekonomi,3.95,Lulus
+Steven Santoso,21.0,M,Manajemen Operasi,4,84,4,Bisnis Digital,3.52,Lulus
+Olivia Hartono,22.0,L,Manajemen Strategi,4,82,6,Ilmu Ekonomi,2.74,Tidak
+Veronica Susanto,20.0,LAKI-LAKI,Manajemen,4,72,2,Teknik Komputer,2.32,Tidak
+Siska Permata,22.0,male,Manajemen Strategi,2,84,5,Ilmu Ekonomi,3.71,Lulus
+Yoga Pratama,22.0,Pria,Bisnis Digital,2,60,4,Informatika,3.68,Lulus
+Wulan Sari,,female,Ekonomi Industri,3,60,3,Sistem Informasi,3.74,Tidak
+Andi Saputra,21.0,LAKI-LAKI,Manajemen Produk Digital,2,70,7,Teknik Komputer,2.84,Lulus
+Yoga Pratama,21.0,Pria,Manajemen Produk Digital,3,68,1,Ilmu Ekonomi,2.88,Lulus
+Yoga Pratama,18.0,F,Data Mining,3,87,7,Ilmu Ekonomi,3.49,Lulus
+Anisa Fitri,18.0,p,Strategi Bisnis Digital,2,73,4,Sistem Informasi,3.13,Tidak
+Doni Saputra,20.0,PEREMPUAN,Ekonomi Publik,3,74,1,Teknik Komputer,2.18,Tidak
+Lina Handayani,20.0,cewek,Akuntansi Keuangan,3,99,4,Informatika,2.04,Lulus
+Cindy Wijaya,21.0,LAKI-LAKI,Ekonomi Pembangunan,2,73,4,Sistem Informasi,3.94,Tidak
+Aditya Nugraha,,cewek,Akuntansi Syariah,4,74,6,Teknik Komputer,2.23,Lulus
+Catherine Wijaya,,cowok,Ekonomi Internasional,2,87,8,Manajemen,2.98,Lulus
+Hadi Wijaya,,l,Digital Marketing,3,51,8,Teknik Komputer,2.87,Tidak
+Hendra Gunawan,22.0,LAKI-LAKI,Ekonometrika,2,57,5,Sistem Informasi,2.14,Tidak
+Gina Marlina,19.0,cowok,Business Analytics,3,96,7,Manajemen,3.44,Lulus
+Rizal Fahmi,22.0,male,Matematika Bisnis,2,82,4,Akuntansi,3.56,Tidak
+Ilham Maulana,20.0,perempuan,Fintech,3,999,8,Informatika,2.29,Tidak
+Intan Permata,18.0,L,Perpajakan,3,81,7,Ilmu Ekonomi,3.0,Tidak
+Aditya Nugraha,21.0,laki,UI/UX Bisnis,2,59,8,Teknik Komputer,2.02,Tidak
+William Tanuwijaya,18.0,male,Machine Learning,3,82,1,Informatika,3.77,Tidak
+Jason Gunawan,18.0,L,Manajemen SDM,2,75,6,Akuntansi,2.64,Tidak
+Grace Natalia,19.0,Wanita,Ekonomi Moneter,3,99,7,Informatika,2.4,Lulus
+Rangga Pratama,21.0,l,Manajemen SDM,2,89,3,Informatika,2.25,Lulus
+Putri Ayu Lestari,,female,Pemrograman,2,55,1,Ilmu Ekonomi,2.1,Tidak
+Herman Widodo,18.0,p,UI/UX Bisnis,3,61,8,Ilmu Ekonomi,3.89,Tidak
+Melati Sari,,female,Mikroekonomi,3,96,3,Informatika,2.97,Lulus
+Ahmad Fauzi,21.0,PEREMPUAN,Sistem Informasi,3,71,2,Akuntansi,2.96,Lulus
+Eko Prasetyo,18.0,cewek,Manajemen,3,63,3,Manajemen,3.45,Tidak
+Michelle Ong,21.0,cewek,Bisnis Digital,2,74,5,Manajemen,3.23,Lulus
+Rizal Fahmi,,LAKI-LAKI,Digital Marketing,2,57,5,Teknik Komputer,3.58,Lulus
+Michael Wijaya,20.0,M,Sistem Informasi Akuntansi,3,55,2,Manajemen,3.31,Lulus
+Kevin Pratama,18.0,p,Ekonomi Publik,4,52,4,Manajemen,2.4,Lulus
+Yuni Astuti,22.0,M,Perilaku Organisasi,2,64,1,Informatika,3.68,Lulus
+Rangga Pratama,,M,Akuntansi Syariah,2,80,2,Ilmu Ekonomi,3.49,Tidak
+Dewi Anggraini,22.0,p,Akuntansi,3,69,4,Bisnis Digital,2.08,Lulus
+Michael Wijaya,20.0,PEREMPUAN,Data Mining,2,85,2,Manajemen,3.45,Tidak
+Siti Nurhaliza,21.0,Wanita,Fintech,3,64,2,Teknik Komputer,3.59,Lulus
+Jason Gunawan,19.0,Pria,Manajemen Risiko,4,999,2,Akuntansi,3.82,Tidak
+Gina Marlina,20.0,Pria,Basis Data,2,67,8,Manajemen,3.67,Lulus
+Dewi Anggraini,20.0,p,Ekonomi Industri,3,57,4,Sistem Informasi,3.82,Lulus
+Putra Mahendra,19.0,M,Akuntansi Manajemen,3,63,2,Teknik Komputer,2.36,Lulus
+Putri Ayu Lestari,,female,Business Analytics,2,90,6,Teknik Komputer,2.19,Lulus
+Sari Dewi,,L,Fintech,4,74,4,Akuntansi,3.19,Tidak
+Citra Lestari,18.0,LAKI-LAKI,Akuntansi Manajemen,4,74,1,Teknik Komputer,2.8,Lulus
+Kevin Tan,22.0,p,Ekonomi Industri,2,50,8,Sistem Informasi,3.2,Tidak
+Sari Dewi,22.0,M,Ekonomi Publik,4,96,7,Ilmu Ekonomi,2.47,Lulus
+Riska Amelia,,F,AI,3,65,2,Bisnis Digital,2.9,Tidak
+Fajar Nugroho,,female,Perilaku Organisasi,2,50,5,Bisnis Digital,2.5,Lulus
+Kevin Pratama,21.0,laki,Sistem Informasi Akuntansi,2,69,4,Informatika,2.07,Lulus
+Veronica Susanto,22.0,laki,Akuntansi,2,98,1,Informatika,3.41,Tidak
+Aditya Nugraha,21.0,PEREMPUAN,Manajemen Produk Digital,4,64,6,Bisnis Digital,2.41,Lulus
+Nanda Pratama,21.0,male,Machine Learning,3,63,2,Teknik Komputer,2.25,Lulus
+Lina Handayani,21.0,Pria,UI/UX Bisnis,3,78,1,Bisnis Digital,2.24,Tidak
+Reza Prakoso,22.0,female,Manajemen Inovasi,2,54,1,Teknik Komputer,3.01,Tidak
+Fauzan Ramadhan,21.0,male,Ekonomi Pembangunan,3,69,5,Sistem Informasi,2.96,Lulus
+Natalie Chandra,20.0,cowok,Kepemimpinan,3,83,1,Ilmu Ekonomi,3.28,Lulus
+Andi Saputra,20.0,F,Deep Learning,3,72,4,Informatika,3.06,Lulus
+Agus Salim,,perempuan,Manajemen Keuangan,2,65,2,Bisnis Digital,2.4,Lulus
+Taufik Hidayat,19.0,l,Makroekonomi,2,50,7,Teknik Komputer,3.35,Tidak
+Putri Ayu Lestari,,female,Ekonometrika,2,96,6,Teknik Komputer,2.51,Lulus
+Putri Ayu Lestari,19.0,cowok,Business Analytics,4,59,6,Akuntansi,2.99,Lulus
+Yuni Astuti,19.0,cowok,Ekonometrika,4,89,1,Akuntansi,2.06,Tidak
+Michelle Ong,18.0,L,Data Mining,3,53,1,Sistem Informasi,3.2,Lulus
+Putri Ayu Lestari,,F,Statistika,2,97,5,Bisnis Digital,3.15,Tidak
+Desi Oktavia,21.0,P,Sistem Informasi,3,99,8,Manajemen,2.1,Lulus
+Cindy Wijaya,18.0,PEREMPUAN,Akuntansi Keuangan,2,74,8,Teknik Komputer,3.5,Lulus
+Cindy Wijaya,22.0,male,Ekonomi Industri,4,90,3,Sistem Informasi,3.76,Lulus
+Andi Saputra,,male,Manajemen Risiko,3,53,6,Bisnis Digital,2.88,Tidak
+Leonard Hartono,19.0,cowok,Kepemimpinan,2,90,7,Akuntansi,2.87,Lulus
+Putri Maharani,18.0,cewek,Makroekonomi,3,56,1,Manajemen,2.66,Lulus
+Veronica Susanto,21.0,P,Ekonomi Industri,3,56,7,Teknik Komputer,3.39,Tidak
+Michelle Ong,22.0,p,Mikroekonomi,2,82,1,Manajemen,3.09,Lulus
+Michelle Ong,21.0,p,Manajemen SDM,3,75,3,Bisnis Digital,3.21,Tidak
+Yohana Simanjuntak,,PEREMPUAN,Mikroekonomi,3,51,6,Manajemen,3.0,Lulus
+Luthfi Hakim,19.0,l,Akuntansi Syariah,3,55,4,Informatika,2.05,Tidak
+Jonathan Halim,18.0,F,Machine Learning,2,83,8,Bisnis Digital,3.16,Tidak
+Galih Putra,21.0,LAKI-LAKI,Ekonomi Syariah,4,92,8,Manajemen,3.1,Tidak
+Steven Santoso,19.0,PEREMPUAN,Perilaku Organisasi,4,92,5,Sistem Informasi,3.64,Lulus
+Salsaabila Putri,22.0,LAKI-LAKI,Akuntansi Syariah,4,74,4,Manajemen,3.85,Lulus
+Fauzan Ramadhan,21.0,female,Manajemen Pemasaran,2,62,6,Ilmu Ekonomi,2.39,Tidak
+Fikri Ramadhan,22.0,PEREMPUAN,Akuntansi Manajemen,2,95,3,Informatika,3.86,Tidak
+Richard Lee,20.0,P,Transformasi Digital,3,85,6,Sistem Informasi,3.43,Lulus
+Jonathan Halim,22.0,PEREMPUAN,E-Commerce,3,74,6,Teknik Komputer,2.36,Lulus
+Aulia Rahman,21.0,perempuan,Startup Management,3,88,5,Informatika,2.37,Lulus
+Ilham Maulana,18.0,p,Audit,3,91,8,Ilmu Ekonomi,3.93,Tidak
+Lina Handayani,,p,Ekonomi Moneter,4,50,4,Bisnis Digital,2.09,Tidak
+Fitri Handayani,20.0,F,Manajemen Risiko,2,71,6,Teknik Komputer,3.03,Tidak
+Doni Saputra,18.0,laki,Ekonometrika,3,58,7,Akuntansi,3.22,Tidak
+Veronica Susanto,18.0,cewek,AI,2,91,8,Sistem Informasi,3.54,Lulus
+Ilham Maulana,19.0,cowok,Manajemen Strategi,4,86,4,Akuntansi,2.55,Lulus
+Eko Prasetyo,21.0,l,AI,4,59,1,Sistem Informasi,2.19,Tidak
+William Tanuwijaya,19.0,cewek,Big Data,2,99,5,Teknik Komputer,2.34,Lulus
+Hadi Wijaya,21.0,M,Sistem Informasi,3,82,7,Ilmu Ekonomi,3.07,Tidak
+Leonard Hartono,22.0,L,Basis Data,4,84,4,Akuntansi,2.41,Lulus
+Ilham Maulana,19.0,P,Transformasi Digital,2,63,5,Informatika,3.19,Tidak
+Samuel Kristianto,18.0,PEREMPUAN,Akuntansi Keuangan,3,84,7,Teknik Komputer,3.39,Lulus
+Dian Puspitasari,19.0,P,Ekonomi Internasional,3,88,1,Sistem Informasi,3.38,Lulus
+Fitri Handayani,21.0,p,Akuntansi Syariah,3,68,4,Manajemen,3.45,Tidak
+Dimas Saputra,22.0,Wanita,Manajemen Strategi,3,85,8,Manajemen,3.29,Tidak
+Monica Setiawati,20.0,F,Fintech,2,57,1,Akuntansi,2.45,Lulus
+Taufik Hidayat,21.0,female,Statistika,2,98,4,Teknik Komputer,2.14,Lulus
+Felicia Tan,21.0,cowok,Fintech,4,81,5,Ilmu Ekonomi,2.54,Tidak
+Evelyn Kusuma,19.0,p,Akuntansi,4,93,5,Informatika,2.91,Tidak
+Cindy Wijaya,,cewek,Perpajakan,3,72,4,Manajemen,3.32,Lulus
+Hendra Gunawan,20.0,perempuan,Manajemen SDM,3,72,6,Ilmu Ekonomi,2.67,Tidak
+Fitri Handayani,21.0,LAKI-LAKI,Mikroekonomi,3,85,5,Teknik Komputer,2.35,Lulus
+Michael Wijaya,18.0,Wanita,Ekonomi Pembangunan,4,65,2,Informatika,2.19,Lulus
+Evelyn Kusuma,21.0,PEREMPUAN,AI,2,65,4,Akuntansi,3.96,Lulus
+Ilham Maulana,,cewek,Mikroekonomi,2,72,4,Manajemen,3.95,Tidak
+Tika Rahmawati,22.0,L,Fintech,2,79,5,Bisnis Digital,2.19,Tidak
+Tri Wahyudi,19.0,perempuan,Makroekonomi,4,81,1,Informatika,3.22,Tidak
+Natalie Chandra,,M,Manajemen Operasi,3,63,4,Sistem Informasi,2.61,Tidak
+Catherine Wijaya,22.0,Wanita,Manajemen,3,90,5,Bisnis Digital,2.69,Lulus
+Putri Ayu Lestari,18.0,Pria,Matematika Bisnis,2,60,3,Manajemen,2.79,Lulus
+Olivia Hartono,19.0,Wanita,E-Commerce,3,55,3,Informatika,3.57,Lulus
+Angelina Putri,,PEREMPUAN,Mikroekonomi,2,91,4,Sistem Informasi,3.86,Tidak
+Eko Prasetyo,,M,Manajemen Strategi,3,94,3,Bisnis Digital,3.35,Tidak
+Reza Prakoso,,laki,Akuntansi,3,55,3,Teknik Komputer,3.58,Tidak
+Samuel Kristianto,,P,Ekonomi Industri,2,64,5,Manajemen,2.05,Lulus
+Grace Natalia,19.0,p,Akuntansi Keuangan,4,67,6,Informatika,3.95,Tidak
+Rahmat Hidayat,19.0,Pria,Manajemen Proyek,2,51,1,Akuntansi,2.96,Lulus
+Ilham Maulana,21.0,laki,Akuntansi Keuangan,4,63,1,Sistem Informasi,3.21,Tidak
+Luthfi Hakim,,P,Akuntansi Biaya,2,52,3,Informatika,2.8,Lulus
+Lina Handayani,22.0,LAKI-LAKI,Ekonomi Moneter,2,83,8,Informatika,2.96,Tidak
+Ilham Maulana,18.0,P,Kepemimpinan,4,53,5,Teknik Komputer,3.1,Tidak
+Natalie Chandra,21.0,M,Analisis Laporan Keuangan,2,80,6,Manajemen,3.75,Lulus
+Steven Santoso,21.0,perempuan,Manajemen Produk Digital,4,55,8,Akuntansi,2.43,Tidak
+Erika Putri,19.0,p,Statistika,4,68,7,Teknik Komputer,2.12,Lulus
+Desi Oktavia,19.0,Pria,Kepemimpinan,3,74,2,Informatika,2.97,Tidak
+Iqbal Maulana,22.0,p,Akuntansi,4,64,1,Teknik Komputer,2.86,Lulus
+Ahmad Fauzi,20.0,PEREMPUAN,Deep Learning,2,58,4,Bisnis Digital,2.61,Lulus
+Luthfi Hakim,21.0,male,Bisnis Digital,2,53,4,Ilmu Ekonomi,3.99,Lulus
+Doni Saputra,22.0,PEREMPUAN,Ekonometrika,4,78,4,Manajemen,3.31,Tidak
+Jessica Lim,19.0,p,Ekonomi Publik,4,86,4,Manajemen,2.81,Tidak
+Rangga Pratama,22.0,male,Deep Learning,4,56,3,Bisnis Digital,2.83,Tidak
+Wulan Sari,22.0,cowok,Ekonomi Pembangunan,2,71,5,Sistem Informasi,2.02,Tidak
+Yoga Pratama,,cowok,Manajemen Strategi,4,70,6,Akuntansi,3.58,Lulus
+Fikri Ramadhan,19.0,cewek,Bisnis Digital,4,88,5,Teknik Komputer,2.43,Lulus
+Luthfi Hakim,19.0,female,Akuntansi Manajemen,3,94,5,Bisnis Digital,2.4,Lulus
+Kartika Dewi,22.0,Wanita,Manajemen Proyek,2,84,1,Ilmu Ekonomi,3.1,Lulus
+Felix Halim,22.0,l,Manajemen Keuangan,4,75,6,Manajemen,2.3,Tidak
+Kartika Dewi,21.0,p,Manajemen Pemasaran,3,89,3,Manajemen,2.75,Tidak
+Leonard Hartono,22.0,L,Perilaku Organisasi,3,91,5,Informatika,3.91,Lulus
+Tika Rahmawati,18.0,male,Akuntansi Syariah,2,58,1,Akuntansi,3.38,Tidak
+Rangga Pratama,22.0,laki,Akuntansi Syariah,2,59,2,Informatika,2.08,Tidak
+Riska Amelia,22.0,l,Manajemen Inovasi,4,83,8,Informatika,3.79,Tidak
+Michael Wijaya,18.0,cowok,Ekonometrika,4,66,4,Teknik Komputer,2.9,Lulus
+Richard Lee,20.0,female,Analisis Laporan Keuangan,2,81,4,Manajemen,3.02,Lulus
+Desi Oktavia,22.0,M,Matematika Bisnis,2,72,3,Manajemen,3.32,Lulus
+Yohana Simanjuntak,20.0,cowok,Perpajakan,2,54,4,Bisnis Digital,3.48,Tidak
+Sri Wahyuni,,male,Ekonomi Pembangunan,4,64,3,Teknik Komputer,3.32,Tidak
+Andika Wijaya,20.0,cowok,Teori Ekonomi,4,54,5,Informatika,3.32,Tidak
+Taufik Hidayat,19.0,cewek,UI/UX Bisnis,3,96,8,Akuntansi,3.03,Lulus
+Daniel Saputra,18.0,PEREMPUAN,Sistem Informasi,2,51,7,Akuntansi,2.41,Lulus
+Rangga Pratama,21.0,perempuan,Perilaku Organisasi,3,53,6,Sistem Informasi,2.14,Lulus
+Sandy Wijaya,19.0,LAKI-LAKI,E-Commerce,4,99,2,Bisnis Digital,3.6,Tidak
+Putra Mahendra,20.0,Pria,Makroekonomi,3,62,5,Manajemen,3.84,Tidak
+Budi Santoso,21.0,laki,Audit,3,60,2,Sistem Informasi,2.68,Tidak
+Ilham Maulana,19.0,P,Manajemen Inovasi,4,58,1,Ilmu Ekonomi,2.75,Tidak
+Rizal Fahmi,21.0,cewek,Teori Ekonomi,3,74,2,Bisnis Digital,3.89,Tidak
+Rizal Fahmi,21.0,l,AI,2,93,8,Sistem Informasi,2.99,Lulus
+Intan Permata,22.0,F,Ekonomi Industri,4,81,6,Informatika,3.72,Lulus
+Maya Sari,21.0,laki,Algoritma,2,96,2,Akuntansi,3.27,Tidak
+Maya Sari,22.0,perempuan,Big Data,3,57,6,Ilmu Ekonomi,3.46,Lulus
+Rina Kartika,21.0,l,Manajemen SDM,4,71,6,Ilmu Ekonomi,3.97,Tidak
+Nabila Zahra,21.0,cowok,Statistika,2,62,2,Informatika,2.22,Lulus
+Dewi Anggraini,21.0,female,Ekonomi Publik,4,99,7,Bisnis Digital,2.98,Lulus
+Grace Natalia,21.0,cowok,Basis Data,2,71,3,Akuntansi,3.52,Lulus
+Siti Nurhaliza,20.0,Pria,Ekonomi Moneter,4,68,7,Manajemen,3.38,Lulus
+Nabila Zahra,21.0,male,Manajemen Produk Digital,4,74,8,Teknik Komputer,2.87,Tidak
+William Tanuwijaya,19.0,M,Teori Ekonomi,3,65,8,Manajemen,2.49,Lulus
+Fikri Ramadhan,20.0,cewek,Matematika Bisnis,2,53,8,Ilmu Ekonomi,2.39,Tidak
+David Setiawan,19.0,perempuan,Algoritma,3,92,1,Informatika,3.11,Tidak
+Dewi Anggraini,,F,Strategi Bisnis Digital,4,76,3,Manajemen,3.38,Tidak
+Catherine Wijaya,22.0,male,Ekonomi Moneter,2,85,6,Manajemen,3.7,Tidak
+Bayu Kurniawan,,Wanita,Business Analytics,2,63,6,Teknik Komputer,3.5,Lulus
+Reza Prakoso,18.0,LAKI-LAKI,Transformasi Digital,4,65,3,Akuntansi,3.68,Tidak
+Grace Natalia,20.0,LAKI-LAKI,Manajemen Inovasi,2,53,7,Teknik Komputer,2.9,Tidak
+Steven Santoso,19.0,Wanita,Sistem Informasi Akuntansi,3,84,2,Teknik Komputer,2.78,Lulus
+Daniel Saputra,,F,Manajemen Produk Digital,4,70,2,Informatika,3.24,Tidak
+Yuni Astuti,21.0,P,Strategi Bisnis Digital,2,94,4,Bisnis Digital,2.8,Lulus
+Rahmat Hidayat,21.0,LAKI-LAKI,Manajemen Keuangan,2,63,3,Ilmu Ekonomi,2.13,Tidak
+Putra Mahendra,19.0,Pria,Ekonomi Internasional,4,53,8,Manajemen,3.21,Tidak
+Fauzan Ramadhan,,l,Manajemen SDM,3,68,7,Teknik Komputer,2.05,Lulus
+Siska Permata,18.0,perempuan,Perilaku Organisasi,4,95,3,Sistem Informasi,2.12,Lulus
+Fajar Nugroho,21.0,l,Machine Learning,3,87,5,Ilmu Ekonomi,3.58,Tidak
+Nabila Zahra,20.0,cowok,Bisnis Digital,2,85,6,Informatika,2.66,Lulus
+Fitri Handayani,18.0,LAKI-LAKI,Manajemen Pemasaran,3,98,3,Manajemen,3.6,Lulus
+Sri Wahyuni,20.0,perempuan,Startup Management,2,94,1,Sistem Informasi,2.84,Tidak
+Tri Wahyudi,21.0,cowok,Statistika,4,76,7,Ilmu Ekonomi,2.82,Tidak
+William Tanuwijaya,21.0,cewek,Matematika Bisnis,4,88,1,Informatika,3.9,Lulus
+Felicia Tan,18.0,female,Data Mining,2,59,2,Bisnis Digital,2.33,Lulus
+Bagus Saputro,18.0,l,Bisnis Digital,3,94,6,Manajemen,3.04,Lulus
+Rahmat Hidayat,20.0,L,Makroekonomi,2,68,2,Teknik Komputer,3.71,Tidak
+Richard Lee,20.0,cowok,Ekonomi Publik,2,78,8,Bisnis Digital,2.37,Lulus
+Siska Permata,22.0,L,Pelaporan Keuangan,3,54,4,Teknik Komputer,2.27,Tidak
+Nur Aini,,Wanita,Manajemen Strategi,4,88,2,Informatika,3.82,Tidak
+Taufik Hidayat,18.0,cowok,Sistem Informasi Akuntansi,3,90,6,Manajemen,2.45,Tidak
+Nur Aini,21.0,perempuan,Startup Management,2,80,4,Informatika,3.31,Tidak
+Intan Permata,22.0,cewek,Data Mining,3,73,4,Teknik Komputer,2.09,Tidak
+Eko Prasetyo,21.0,PEREMPUAN,Transformasi Digital,4,84,7,Akuntansi,3.81,Tidak
+Sandy Wijaya,19.0,l,Statistika,3,80,2,Manajemen,3.69,Tidak
+Novi Andriani,21.0,cowok,Pelaporan Keuangan,2,94,4,Ilmu Ekonomi,2.07,Tidak
+Natalie Chandra,19.0,cewek,E-Commerce,3,92,1,Bisnis Digital,2.69,Tidak
+Felix Halim,18.0,Wanita,Ekonometrika,4,56,6,Sistem Informasi,3.8,Tidak
+Fajar Nugroho,20.0,L,Pelaporan Keuangan,4,97,7,Teknik Komputer,2.79,Tidak
+Erika Putri,21.0,l,Digital Marketing,3,86,2,Informatika,3.96,Lulus
+Intan Permata,20.0,M,Pemrograman,4,75,5,Sistem Informasi,3.13,Lulus
+Doni Saputra,20.0,M,Data Mining,2,70,8,Teknik Komputer,3.93,Lulus
+Claudia Angelina,18.0,Pria,E-Commerce,2,99,5,Akuntansi,2.45,Tidak
+Daniel Saputra,18.0,laki,Pemrograman,4,71,7,Manajemen,3.09,Tidak
+Siti Nurhaliza,22.0,female,Teori Ekonomi,2,83,4,Sistem Informasi,3.45,Lulus
+Vina Melinda,,F,E-Commerce,2,66,2,Informatika,2.16,Tidak
+Fikri Ramadhan,19.0,cewek,Matematika Bisnis,2,59,5,Akuntansi,2.28,Tidak
+Grace Natalia,18.0,F,E-Commerce,3,59,2,Manajemen,3.72,Lulus
+William Tanuwijaya,22.0,cowok,Strategi Bisnis Digital,4,71,4,Teknik Komputer,2.12,Tidak
+Nina Oktaviani,,P,Bisnis Digital,4,59,3,Sistem Informasi,2.1,Lulus
+Riska Amelia,18.0,Wanita,Manajemen Risiko,4,70,4,Informatika,3.09,Tidak
+Nanda Pratama,,LAKI-LAKI,Akuntansi,3,64,8,Akuntansi,2.25,Lulus
+Lina Handayani,,female,Ekonometrika,3,76,5,Teknik Komputer,2.9,Tidak
+Reza Prakoso,21.0,Wanita,Perilaku Organisasi,3,98,7,Ilmu Ekonomi,3.11,Tidak
+Budi Santoso,,l,Akuntansi,4,57,4,Teknik Komputer,3.08,Tidak
+Rina Kartika,20.0,Pria,Digital Marketing,3,88,4,Sistem Informasi,2.9,Lulus
+Mega Utami,19.0,Pria,Ekonomi Publik,4,68,5,Bisnis Digital,3.93,Tidak
+Lina Handayani,21.0,l,Manajemen Inovasi,3,57,8,Bisnis Digital,2.71,Lulus
+Grace Natalia,21.0,female,Ekonomi Publik,2,70,8,Teknik Komputer,3.6,Lulus
+Fikri Ramadhan,,Pria,Manajemen,3,91,4,Manajemen,3.39,Tidak
+Galih Putra,19.0,laki,Ekonomi,4,65,3,Informatika,2.73,Lulus
+Catherine Wijaya,19.0,M,Big Data,4,89,6,Ilmu Ekonomi,2.28,Lulus
+Iqbal Maulana,22.0,male,Statistika,4,86,4,Bisnis Digital,3.6,Tidak
+Kevin Pratama,,l,Manajemen,4,81,1,Sistem Informasi,3.61,Tidak
+Jonathan Halim,18.0,Wanita,Kepemimpinan,4,94,7,Ilmu Ekonomi,2.24,Tidak
+Yoga Pratama,22.0,l,Akuntansi Keuangan,3,53,4,Manajemen,3.76,Lulus
+Yohana Simanjuntak,20.0,L,Pemrograman,4,76,5,Sistem Informasi,3.12,Lulus
+Aditya Nugraha,21.0,male,Manajemen Keuangan,2,69,2,Ilmu Ekonomi,2.42,Tidak
+Monica Setiawati,22.0,laki,Bisnis Digital,4,77,5,Informatika,2.59,Tidak
+Rina Kartika,19.0,p,Akuntansi Biaya,3,68,4,Sistem Informasi,2.63,Lulus
+David Setiawan,19.0,L,Manajemen Risiko,4,93,4,Informatika,2.63,Tidak
+Yohana Simanjuntak,19.0,P,Basis Data,3,52,4,Akuntansi,2.67,Tidak
+Dimas Saputra,22.0,Wanita,Ekonomi Pembangunan,3,82,5,Informatika,2.84,Tidak
+Agus Salim,18.0,female,Manajemen,4,96,2,Bisnis Digital,3.5,Lulus
+Kevin Pratama,,L,Akuntansi Manajemen,2,54,4,Sistem Informasi,2.94,Lulus
+Fitri Handayani,20.0,LAKI-LAKI,Statistika,4,82,4,Manajemen,3.48,Tidak
+Aulia Rahman,21.0,perempuan,Startup Management,3,88,5,Informatika,2.37,Lulus
+William Tanuwijaya,20.0,M,Deep Learning,3,81,8,Bisnis Digital,3.61,Tidak
+Michael Wijaya,20.0,cewek,Bisnis Digital,2,86,1,Informatika,2.24,Tidak
+Kevin Pratama,,L,Akuntansi Manajemen,2,54,4,Sistem Informasi,2.94,Lulus
+Nur Aini,22.0,cowok,Ekonometrika,3,78,3,Sistem Informasi,3.65,Tidak
