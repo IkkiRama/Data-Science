@@ -1,0 +1,1 @@
+print(f"isi dari __name__ fungsi = {__name__}")
